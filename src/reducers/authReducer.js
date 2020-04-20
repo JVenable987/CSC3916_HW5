@@ -1,4 +1,4 @@
-import constants from '../constants/actionTypes'
+import constants from '../constants/actionTypes';//changed semicolin
 
 var initialState = {
     loggedIn: localStorage.getItem('token') ? true : false,
