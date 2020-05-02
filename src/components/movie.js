@@ -10,7 +10,7 @@ import {
     ControlLabel,
     Form,
     FormControl,
-    Button, Form
+    Button
 } from "react-bootstrap";
 import {Image} from "react-bootstrap";
 import { withRouter } from "react-router-dom";
